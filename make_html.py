@@ -13,7 +13,7 @@ import re
 
 # Settings
 input_txt = "/astro/store/shire/kiyoaki/ASTR499/path_list.txt"
-output_dir = "/astro/store/shire/kiyoaki/ASTR499/output/satchecker/plot"
+output_dir = "/astro/store/shire/kiyoaki/ASTR499/output/plot"
 output_html = os.path.join(output_dir, "image_gallery.html")
 images_per_row = 3
 
